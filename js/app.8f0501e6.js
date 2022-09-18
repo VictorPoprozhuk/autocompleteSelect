@@ -939,12 +939,12 @@
     }
     l['a'].config.productionTip = !1, l['a'].directive('intersection', { bind: J }), new l['a']({ render: i => i(C) }).$mount('#app')
   },
-  '58ef': function (i, t, e) {i.exports = e.p + './img/icon-close.4d7fd690.svg'},
+  '58ef': function (i, t, e) {i.exports = './img/icon-close.4d7fd690.svg'},
   '8cf4': function (i, t, e) {
     'use strict'
     e('ed05')
   },
   ed05: function (i, t, e) {},
-  fae1: function (i, t, e) {i.exports = e.p + './img/arrow.47fb15ce.svg'}
+  fae1: function (i, t, e) {i.exports = './img/arrow.47fb15ce.svg'}
 })
 //# sourceMappingURL=app.8f0501e6.js.map
